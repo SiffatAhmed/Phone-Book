@@ -1,0 +1,12 @@
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\bin\Debug\ApplicationLayerPhoneBook.exe.config
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\bin\Debug\ApplicationLayerPhoneBook.exe
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\bin\Debug\ApplicationLayerPhoneBook.pdb
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\obj\Debug\ApplicationLayerPhoneBook.Form1.resources
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\obj\Debug\ApplicationLayerPhoneBook.Properties.Resources.resources
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\obj\Debug\ApplicationLayerPhoneBook.csproj.GenerateResource.cache
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\obj\Debug\ApplicationLayerPhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\obj\Debug\ApplicationLayerPhoneBook.exe
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\obj\Debug\ApplicationLayerPhoneBook.pdb
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\obj\Debug\ApplicationLayerPhoneBook.csprojAssemblyReference.cache
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\bin\Debug\App Data\PhoneBookDB.mdf
+C:\Users\aleem\source\repos\LogicLayerPhoneBook\ApplicationLayerPhoneBook\bin\Debug\App Data\PhoneBookDB_log.ldf
